@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jem0ntr053&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jem0ntr053&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -16,8 +16,8 @@
 
 - 👋 Hi, I’m Jonathan, but my friends just call me Jay.
 - 👀 I’m interested in sound engineering software and data mining and visualization.
-- 🌱 I just earned a Batchelor's degree in Software Engineering at Sam Houston State University
-- 💞️ I’m looking to collaborate on open source projects in Python or C++.
+- 🌱 I just earned a Bachelor's degree in Software Engineering at Sam Houston State University
+- 💞️ I’m looking to collaborate on open source projects in Python.
 - 📫 How to reach me:
 -     j.e.montrose@gmail.com
 
