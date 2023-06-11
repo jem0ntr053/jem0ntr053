@@ -51,7 +51,8 @@ I'm a recent Software Engineering graduate from Sam Houston State University, wi
 
 - Email: j.e.montrose@gmail.com
 - LinkedIn: [Jonathan Montrose](https://www.linkedin.com/in/jonathan-montrose/)
-- GitHub: [jem0ntr053](https://github.com/jem0ntr053)
+- Twitter: [jem0ntr053](https://twitter.com/jem0ntr053)
+- Instagram: [jemontrose](https://www.instagram.com/jem0ntr053/)
 
 
 <!---
