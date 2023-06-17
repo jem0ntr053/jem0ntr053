@@ -8,25 +8,28 @@ I'm a recent Software Engineering graduate from Sam Houston State University, wi
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Ada](https://img.shields.io/badge/-Ada-02B7E9?style=flat-square&logo=ada&logoColor=white)
+<!-- ![Ada](https://img.shields.io/badge/-Ada-02B7E9?style=flat-square&logo=ada&logoColor=white) -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
+<!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
+
+## 🗂️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ## 🛠️ Tools / IDEs
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+<!-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) -->
+<!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
+<!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+<!-- ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) -->
 
 
 ## 🎓 Education
@@ -36,16 +39,21 @@ I'm a recent Software Engineering graduate from Sam Houston State University, wi
 
 ## 💼 Skills
 
-- Languages: Python (Pandas, NumPy, Scikit‐learn, Flutter), Java, SQL, C/C++(OpenGL, MBED), C#(Blazor, .NET), HTML/CSS, ADA(Data Structures)
-- Applications: Linux, Shell(Bash/Zsh), LATEX(Overleaf), Microsoft Office, Firebase, Git.
+- Languages: Python, Java, SQL, C/C++(OpenGL, MBED), C#(Blazor, .NET), HTML/CSS
+- Python: Pandas, NumPy, Scikit‐learn, Flutter
+- C: MBED
+- C++: OpenGL
+- C#: .NET, Blazor
+- CI/CD: Git, Github
 - Soft Skills: Time Management, Teamwork, Problem‐solving, Documentation, Engaging Presentation, Sales, Management, Teaching
+- Knowledge/Courses: Data Structures, Networks, System Simulation, Database Management, 
 
 ## 📚 University Projects
 
 - [Materialist - Full Stack - Asset Verification Application](https://github.com/software-wes-jay-alex/subcontracting-app)
 - [Computer Graphics Project](https://github.com/bfahrenfort/S22-Graphics-Project)
 
-## 👯 I’m looking to collaborate on open source projects in Python.
+<!-- ## 👯 I’m looking to collaborate on open source projects in Python. -->
 
 ## 📫 How to reach me: 
 
