@@ -1,6 +1,6 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jem0ntr053&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
-# Hello, I'm Jonathan Montrose, but you can call me Jay 👋
+# Hello, I'm Jonathan Montrose 👋
 
 I'm a recent Software Engineering graduate from Sam Houston State University, with a passion for sound engineering software and data mining and visualization. I have two years of programming experience and six months of application development and data mining experience. I'm proficient in C++, Java, and Python, and I have expertise in developing responsive web applications. I have a strong understanding of OOP concepts and design patterns.
 
